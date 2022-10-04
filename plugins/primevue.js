@@ -1,4 +1,4 @@
-import PrimeVue from '../node_modules/primevue/config'
+import PrimeVue from 'primevue/config'
 import Button from 'primevue/button'
 import InputText from 'primevue/inputtext'
 import Toast from 'primevue/toast'
